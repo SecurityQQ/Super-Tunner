@@ -1,0 +1,12 @@
+{
+  "Values": [
+    {
+      "label": "thank you",
+      "triggers": "print(\"thank you\")"
+    },
+    {
+      "label": "toster sound",
+      "triggers": "print(\"Toster sound\")"
+    }
+  ]
+}
